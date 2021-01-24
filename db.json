@@ -1,0 +1,33 @@
+{
+  "Users": [
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "role": "SDE",
+      "organization": "Whiteklay",
+      "id": "EWVDmay"
+    },
+    {
+      "name": "Smith",
+      "email": "smith00@gmail.com",
+      "role": "SDE2",
+      "organization": "Whiteklay",
+      "id": "TXtvEaj"
+    }
+  ],
+  "Roles": [
+    {
+      "name": "Developer",
+      "description": "To develop UI of an application",
+      "id": "24I4pJc"
+    }
+  ],
+  "Organization": [
+    {
+      "name": "TCS",
+      "sizeOfOrganization": 6000,
+      "description": "To provide software services",
+      "id": 2
+    }
+  ]
+}
