@@ -2,9 +2,9 @@
 
 While being in the whiteklay directory run:
 
-### `npm dev run`
+### `npm run dev`
 
-(E.g.,whiteklay % `npm dev run`)
+(E.g.,whiteklay % `npm run dev`)
 
 
 Make sure to run the application on localhost:3000
