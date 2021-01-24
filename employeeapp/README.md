@@ -1,6 +1,6 @@
 # Steps to run the application:
 
-While being in the Whiteklay directory run:
+While being in the whiteklay directory run:
 
 ### `npm dev run`
 
