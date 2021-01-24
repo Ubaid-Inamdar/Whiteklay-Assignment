@@ -1,3 +1,15 @@
+--> Steps to run the application:
+=> While being in the Whiteklay directory:
+=> Run:
+=> `npm dev run` (E.g.,whiteklay % `npm dev run`)
+
+-->Make sure to run the application on localhost:3000
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
