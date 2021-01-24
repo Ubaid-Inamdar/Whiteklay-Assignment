@@ -1,8 +1,13 @@
 # Steps to run the application:
-=> While being in the Whiteklay directory run:
+
+While being in the Whiteklay directory run:
+
 ### `npm dev run`
-=> (E.g.,whiteklay % `npm dev run`)
-=> Make sure to run the application on localhost:3000
+
+(E.g.,whiteklay % `npm dev run`)
+
+
+Make sure to run the application on localhost:3000
 
 
 
